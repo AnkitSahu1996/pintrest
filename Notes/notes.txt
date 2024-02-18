@@ -1,0 +1,2 @@
+npm i multer uuid
+this code run in the terminal to install the multer
